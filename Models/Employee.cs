@@ -12,7 +12,7 @@ namespace Mamba.Models
         public string Linkedin{ get; set; }
         public string Facebook{ get; set; }
         public int PositionId { get; set; }
-
+        public Position Position { get; set; }
        
     }
 }

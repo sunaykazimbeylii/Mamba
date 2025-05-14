@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ll novbe\\source\\repos\\Mamba\\Mamba\\Mamba.csproj": {}
+    "C:\\Users\\user\\Desktop\\Mamba\\Mamba.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ll novbe\\source\\repos\\Mamba\\Mamba\\Mamba.csproj": {
+    "C:\\Users\\user\\Desktop\\Mamba\\Mamba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ll novbe\\source\\repos\\Mamba\\Mamba\\Mamba.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Mamba\\Mamba.csproj",
         "projectName": "Mamba",
-        "projectPath": "C:\\Users\\ll novbe\\source\\repos\\Mamba\\Mamba\\Mamba.csproj",
-        "packagesPath": "C:\\Users\\ll novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ll novbe\\source\\repos\\Mamba\\Mamba\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\Mamba\\Mamba.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Mamba\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ll novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -43,8 +39,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -88,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -9,6 +9,10 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
 });
 var app = builder.Build();
 app.MapControllerRoute(
+    "Admin",
+    "{area:exists}/{controller=home}/{action=index}/{id?}"
+    );
+app.MapControllerRoute(
     "default",
     "{controller=home}/{action=index}/{id?}"
     );
